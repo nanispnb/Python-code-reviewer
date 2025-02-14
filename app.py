@@ -1,3 +1,5 @@
+!pip install streamlit
+!pip install google-generativeai
 import streamlit as st
 import google.generativeai as ai
 
