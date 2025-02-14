@@ -3,7 +3,7 @@ pip install google-generativeai
 import streamlit as st
 import google.generativeai as ai
 
-ai.configure(api_key="AIzaSyB2uYmns8srnhUlgQApQenfEoy8zt1zKro")
+ai.configure(api_key="")
 
 sys_prompt = """You are a helpful AI Tutor for Data Science. 
                 Students will ask you doubts related to various topics in data science.
